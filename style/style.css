@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  background-color: #333;
+  margin: 0;
+}
+
+.header {
+  height: 100px;
+  width: 100%;
+}
+
+.dial {
+  outline: 0;
+}
